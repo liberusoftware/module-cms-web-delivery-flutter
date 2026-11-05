@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-web-delivery-flutter",
+  "capabilityKey": "liberusoftware/module-cms-web-delivery",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_web_delivery_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/web-delivery.md",
+  "presentationPlan": "projects/cms/flutter/web-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
